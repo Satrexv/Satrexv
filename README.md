@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Satrexv
-- 🌱 I’m currently learning .py, .js (djs)
+- 🌱 I’m currently learning .py, .js (djs), html/css
 - 📫 Join me on Discord with my tag : Satrex#5121
