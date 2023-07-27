@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [DHelp](https://dhelp.fr)
 
-- 👨‍💻 All of my projects are available at [https://dhelp.fr & https://shoto.fr](https://dhelp.fr & https://shoto.fr)
+- 👨‍💻 All of my projects are available at [satrex.fr](satrex.fr)
 
 - 📫 How to reach me **On discord : satrex_ or by mail : satrex.dev@gmail.com**
 
