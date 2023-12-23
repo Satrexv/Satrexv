@@ -13,7 +13,7 @@ I am 17 years old and passionate about development. Currently, I am a young begi
 * 🧠  I'm learning web development
 * 🤝  I'm open to collaborating on interesting projects
 
-### Skills
+### Skills (learning)
 
 
 <p align="left">
